@@ -1,0 +1,20 @@
+---
+title: "About"
+toc: false
+---
+
+### Bio
+
+I'm currently a ScM [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) student at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). During my undergraduate studies, I have been doing single cell transcriptomics research on Human Plasma Cell Maturation in [Dr. Greg Gibson's lab](https://ggibsongt.wixsite.com/gibsongatech) at [Georgia Tech](https://www.gatech.edu/). This experience inspired me to look into the statistical methods behind high dimensional data analysis. Motivated by a desire to delve deeper into statistical theories, I chose Johns Hopkins as the platform to refine my skills and apply this knowledge to make informed and responsible decisions in data analysis.
+
+Outside of academics, I like photography, traveling, cooking and bartending. I post some of my photos (include my foods and drinks) on [Instagram](https://www.instagram.com/shu.luan_photo/).
+
+### Education
+
+**Johns Hopkins University** 2023-Present
+
+ScM Biostatistics
+
+**Georgia Institute of Technology** 2020-2023
+
+BS Biology (minored in Mathematics and Biomedical Engineering)

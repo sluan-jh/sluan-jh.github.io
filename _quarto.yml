@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shu Luan"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - analysis.qmd
+
+format:
+  html:
+    theme: 
+      light: minty
+      dark: solar
+    css: styles.css
+    toc: true
+    code-fold: true
+
+editor: visual
+
